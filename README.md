@@ -1,6 +1,9 @@
 ## ~NetshareDump
 **A simple, effective script for automatically dumping network shares.**
 
+#### Disclaimer
+This tool is only intended to be a proof of concept demonstration tool for authorized security testing. Make sure you check with your local laws before running this tool.
+
 #### Input file
 Input file must contain UNC paths :
 
